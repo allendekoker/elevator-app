@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#building {
+    position: relative;
+}
+
+.floor {
+    /* Add styles for floors here */
+}
+
+.elevator {
+    /* Add styles for the elevator here */
+}
+
+.button {
+    /* Add styles for floor buttons here */
+}
+
+#controlPanel {
+    /* Add styles for the control panel here */
+}
